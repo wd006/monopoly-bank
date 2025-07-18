@@ -22,11 +22,11 @@ No installation required. Just visit https://wd006.github.io/monopoly-bank/
 
 ## Usage
 
-1.  **Select Player**: Choose the player for the transaction from the "Oyuncu Seç" dropdown.
+1.  **Select Player**: Choose the player for the transaction from the "Select Player" dropdown.
 2.  **Enter Amount**: Use the number buttons (0-9) to input the desired transaction amount. You can also use the "K" (x1000) or "M" (x1,000,000) buttons to quickly multiply the entered value.
 3.  **Perform Transaction**: Click the "+" button to add the amount to the selected player's balance, or the "-" button to subtract it.
-4.  **Starting Bonus**: Click the "2M-EKLE" button to add 2,000,000 to the selected player's balance (typically for passing "Go").
-5.  **Correcting Input**: Use the "Sil" button to remove the last digit from the amount input.
+4.  **Starting Bonus**: Click the "Add 2M" button to add 2,000,000 to the selected player's balance (typically for passing "Go").
+5.  **Correcting Input**: Use the "Delete" button to remove the last digit from the amount input.
 6.  **Reset Game**: Click the "RESET" button to set all player balances back to 15,000,000. A confirmation dialog will appear before resetting.
 
 ## Dependencies
