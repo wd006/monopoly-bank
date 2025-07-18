@@ -1,0 +1,45 @@
+# Genel Git Ignore Dosyası
+
+# Derlenmiş dosyalar (C#, .NET)
+bin/
+obj/
+
+# Visual Studio klasörü
+.vs/
+
+# Kullanıcı ve makine ayarları
+*.user
+*.suo
+
+# Derleme çıktı dosyaları
+*.exe
+*.dll
+*.pdb
+
+# Geçici dosyalar
+*.cache
+*.log
+
+# Sistem dosyaları
+Thumbs.db
+.DS_Store
+
+# Paket klasörleri (Node.js vb.)
+node_modules/
+
+# Sanal ortamlar (Python)
+venv/
+env/
+
+# Sıkıştırılmış arşivler
+*.zip
+*.rar
+*.tar.gz
+
+# IDE klasörleri
+.idea/
+.vscode/
+
+# Kendi özel dosyan
+projectdetails.txt
+createdetails.ps1
